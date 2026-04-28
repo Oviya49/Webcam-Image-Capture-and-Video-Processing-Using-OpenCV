@@ -53,14 +53,17 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## Output
 
 ### i) Write the frame as JPG image
-![alt text](image-1.png)
+<img width="512" height="409" alt="image" src="https://github.com/user-attachments/assets/ab6966f6-1cf5-41da-adda-765d17a364c0" />
 
 ### ii) Display the video
-![alt text](image-2.png)
+<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/bd02b956-0298-4860-a1bf-c00729b9a210" />
+
 ### iii) Display the video by resizing the window
-![alt text](image-3.png)
+<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/27b6e5ec-496e-480a-96bd-dde684148fe3" />
+
 ### iv) Rotate and display the video
-![alt text](image-4.png)
+<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/249f7c6e-de47-412a-9849-fa24ea700eb9" />
+
 ---
 
 ## Result
